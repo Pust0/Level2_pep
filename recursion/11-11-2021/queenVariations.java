@@ -1,4 +1,4 @@
-public class queenVariations {
+class queenVariations{
 	
 	//1D
 	public static int queen1DCombination(boolean board[], int tq, int idx, int qpsf, String ans) {
